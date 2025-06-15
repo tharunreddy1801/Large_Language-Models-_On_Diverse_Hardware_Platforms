@@ -26,3 +26,9 @@ With the exponential growth of LLMs, efficient deployment across diverse hardwar
   * C --> E[GPU Deployment] 
   * C --> F[FPGA Deployment]
   * D,E,F --> G[Performance Analysis]
+## Core Components
+
+* **Model Layer**: Pre-trained transformers (BERT, TinyBERT)
+* **Conversion Layer**: ONNX standardization for cross-platform compatibility
+* **Hardware Layer**: Platform-specific optimizations
+* **Analysis Layer**: Performance monitoring and visualization
