@@ -124,7 +124,7 @@ python quick_test.py --model bert-base-uncased --platform cpu
 ## 🔮 Future Scope
 
  * **FPGA Implementation**: Complete FPGA deployment and optimization
- * ** Quantum Computing**: Explore quantum-classical hybrid approaches
+ * **Quantum Computing**: Explore quantum-classical hybrid approaches
  * **Edge Computing**: Mobile and IoT device optimization
  * **AutoML Integration**: Automated hardware-software co-design
  * **Real-time Applications**: Chatbot and voice assistant implementations
